@@ -8,7 +8,7 @@ const seasons = [
   {
     label: "Christmas",
     tagline: "Festive moments that last",
-    id: "1573484557528-94c8b21329bc",
+    id: "1551582045-6ec9c11d8697",
     overlay: "from-xmas/80 to-xmas/40",
     border: "border-xmas/40",
   },
