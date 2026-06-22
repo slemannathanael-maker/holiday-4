@@ -57,7 +57,7 @@ const packages = [
 const faqs = [
   { q: "Do you handle setup and breakdown?", a: "Yes. Our team arrives 45 to 60 minutes before your event, handles the full setup, and returns at the end to break everything down." },
   { q: "Can you customize the prints for our holiday?", a: "Absolutely. Every package includes at least a basic overlay. The Signature and Grand packages include fully custom overlays matched to your event." },
-  { q: "How far in advance should I book?", a: "Holiday weekends fill up fast — often 6 to 10 weeks out. We recommend booking as early as possible for December, Halloween, and NYE dates." },
+  { q: "How far in advance should I book?", a: "Holiday weekends fill up fast. We recommend booking 6 to 10 weeks out, especially for December, Halloween, and NYE dates." },
   { q: "Do you service events outside the city?", a: "Yes, with a travel fee depending on distance. Contact us with your location and we will provide a full quote." },
 ];
 

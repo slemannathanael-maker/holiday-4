@@ -18,7 +18,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Shimmer Co. | Holiday and Seasonal Photo Booths",
-  description: "Professional photo booth rentals for every holiday and seasonal celebration — Christmas, Halloween, New Year's Eve, and more.",
+  description: "Professional photo booth rentals for every holiday and seasonal celebration: Christmas, Halloween, New Year's Eve, and more.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

@@ -8,7 +8,7 @@ const seasons = [
   {
     label: "Christmas",
     tagline: "Festive moments that last",
-    id: "1519671482749-fd09be7ccebf",
+    id: "1573484557528-94c8b21329bc",
     overlay: "from-xmas/80 to-xmas/40",
     border: "border-xmas/40",
   },
@@ -22,14 +22,14 @@ const seasons = [
   {
     label: "New Year's Eve",
     tagline: "Ring in the new year in style",
-    id: "1519751138087-5bf79df62d5b",
+    id: "1492684223066-81342ee5ff30",
     overlay: "from-nye/80 to-nye/40",
     border: "border-nye/40",
   },
   {
     label: "4th of July",
     tagline: "Stars, stripes, and sparklers",
-    id: "1498931299472-f7a63a5a1cfa",
+    id: "1499233983070-99a5f004e720",
     overlay: "from-july/80 to-july/40",
     border: "border-july/40",
   },
@@ -102,7 +102,7 @@ export default function HomePage() {
         <div className="max-w-4xl mx-auto text-center">
           <FadeIn>
             <p className="font-display text-3xl md:text-5xl font-medium text-ink leading-[1.2] tracking-tight">
-              From Christmas galas to Halloween bashes to NYE countdowns,{" "}
+              Christmas parties, Halloween bashes, NYE countdowns.{" "}
               <span className="italic text-gold">Shimmer Co.</span> brings the booth to every occasion.
             </p>
           </FadeIn>
@@ -241,7 +241,7 @@ export default function HomePage() {
             <blockquote className="font-display text-2xl md:text-4xl font-medium italic text-ink leading-snug mb-8">
               They showed up, set everything up without a word, and the booth was the single best part of our company Christmas party. Our employees are still talking about it.
             </blockquote>
-            <p className="text-sm font-semibold text-slate uppercase tracking-widest">Sarah K. &mdash; Corporate Events Manager</p>
+            <p className="text-sm font-semibold text-slate uppercase tracking-widest">Sarah K., Corporate Events Manager</p>
           </FadeIn>
         </div>
       </section>
